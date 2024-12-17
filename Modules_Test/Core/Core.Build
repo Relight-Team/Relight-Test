@@ -1,0 +1,6 @@
+Name = "Core"
+
+Dependencies = ["Core"]
+
+EntryFile = "RunAllTest.cpp"
+

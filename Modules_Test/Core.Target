@@ -1,0 +1,5 @@
+Name = "CoreTest"
+
+Target = "Game"
+
+ExtraDependencies = ["Core"]
